@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a DuitkuWebviewTest project purpose for development only, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+Using NodeJS Version: 18.17.1
 
 # Getting Started
 
